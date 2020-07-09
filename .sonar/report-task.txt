@@ -1,0 +1,6 @@
+projectKey=newzz
+serverUrl=http://localhost:8081
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:8081/dashboard/index/newzz
+ceTaskId=AXINoIms0He4l7O0v_qM
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AXINoIms0He4l7O0v_qM
